@@ -11,7 +11,7 @@ On [Pandia](https://github.com/Brian3647/Pandia)!
 
 Nop. But I'm looking for some interesting projects in GitHub for contributing!
 
-[!img](/img1.png)
+![img](/Captura de pantalla de 2021-05-10 21-04-35.png)
 
 ## What do I code?
 
