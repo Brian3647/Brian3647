@@ -11,4 +11,7 @@ On [Pandia](https://github.com/Brian3647/Pandia)!
 
 Nop. But I'm looking for some interesting projects in GitHub for contributing!
 
+# Take a look!
+
 ![img](/img1.png)
+![Stats](https://github-readme-stats.vercel.app/api?username=Brian3647&show_icons=true)
