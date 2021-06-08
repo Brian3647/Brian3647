@@ -13,5 +13,5 @@ Nop. But I'm looking for some interesting projects in GitHub for contributing!
 
 # Take a look!
 
-![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian3647&theme=dark) ![Stats](https://github-readme-stats.vercel.app/api?username=Brian3647&show_icons=true&theme=dark) 
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian3647) ![Stats](https://github-readme-stats.vercel.app/api?username=Brian3647&show_icons=true) 
 ![img](/img1.png)
