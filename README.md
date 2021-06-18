@@ -5,7 +5,7 @@ I live in [Mollet del Vallès, Barcelona](https://goo.gl/maps/4oUmj22o6R3aPh3Q7)
 
 ## What I'm working on right now?
 
-On [Pandia](https://github.com/Brian3647/Pandia)!
+On [binarity](https://github.com/Brian3647/binarity)!
 
 ## Looking for a job?
 
